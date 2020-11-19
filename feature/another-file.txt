@@ -1,3 +1,5 @@
 This is new file created in feature directory.
 
 Another line added in local branch.
+
+This change was made in feature-2 branch locally.
